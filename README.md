@@ -1,12 +1,12 @@
 # app-dev
 My first repository
-# FAVCORITE SERIE: FROM
+# FAVORITE SERIE: FROM
 
 **FROM** is a science-fiction horror television series that premiered in 2022
 *The story centers on the residents' struggles to survive and find a way out while contending with nocturnal, deadly creatures and their own psychological turmoil. Sheriff Boyd Stevens, played by Harold Perrineau, leads the townsfolk in maintaining order and unraveling the secrets of their bizarre predicament. The show combines supernatural elements with intense drama, keeping viewers intrigued with its layered mysteries and character-driven storytelling.*
 
-1. Sheriff Boyd Stevens (Harold Perrineau)
 
+1. Sheriff Boyd Stevens (Harold Perrineau)
 The town’s leader, trying to protect the residents and uncover the mystery of their imprisonment.
 
 2. Tabitha Matthews (Catalina Sandino Moreno)
