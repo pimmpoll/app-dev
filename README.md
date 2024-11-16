@@ -20,20 +20,20 @@ Tabitha and Jim’s young son, who forms bonds with other residents despite the 
 
 5. Donna (Elizabeth Saunders)
 A tough, no-nonsense woman who oversees the colony house, a communal living space for some town residents.
-Ellis Stevens (Corteon Moore)
 
+6. Ellis Stevens (Corteon Moore)
 Boyd’s estranged son, grappling with his past and trying to reconcile with his father.
 
-6. Jade (David Alpay)
+7. Jade (David Alpay)
 A tech-savvy individual who stumbles into the town and begins investigating its strange occurrences.
 
-7. Kristi (Chloe Van Landschoot)
+8. Kristi (Chloe Van Landschoot)
 The town’s medic, who provides medical care while navigating her own personal struggles.
 
-8. Victor (Scott McCord)
+9. Victor (Scott McCord)
 A mysterious long-time resident of the town with deep knowledge of its secrets but eccentric behavior.
 
-9. Sara Myers (Avery Konrad)
+10. Sara Myers (Avery Konrad)
 A resident who hears sinister voices that influence her actions, adding to the town’s tension.
 
 [FROM](https://en.wikipedia.org/wiki/From_(TV_series))
